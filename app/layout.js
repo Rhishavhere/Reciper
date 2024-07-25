@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'NextLevel Food',
+  title: 'Reciper',
   description: 'Delicious meals, shared by a food-loving community.',
 };
 
